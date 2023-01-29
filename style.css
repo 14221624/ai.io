@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+img
+{
+    height: 150px;
+    width: 150px;
+}
+
+.div_ladygaga
+{
+    float: left;
+}
+
+.div_sia
+{
+    float: right;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 30px;
+}
